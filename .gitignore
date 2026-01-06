@@ -1,0 +1,15 @@
+# Data
+data/raw/
+data/processed/
+
+# Secrets
+.env
+kaggle.json
+.kaggle/
+
+# Outputs
+*.parquet
+*.pkl
+*.joblib
+__pycache__/
+.ipynb_checkpoints/
