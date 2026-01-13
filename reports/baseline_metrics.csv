@@ -1,0 +1,2 @@
+model,macro_f1,weighted_f1,top_n_products,cap_per_class,vectorizer,split
+TF-IDF + SGD(log_loss),0.461719258013692,0.3169004173177168,10,10000,"TF-IDF (1-2 grams, max_features=60000, min_df=10)",time split 80/20
