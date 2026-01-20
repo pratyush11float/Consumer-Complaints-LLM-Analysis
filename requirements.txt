@@ -5,3 +5,5 @@ scikit-learn
 matplotlib
 jupyter
 sentence-transformers
+faiss-cpu
+pyarrow
