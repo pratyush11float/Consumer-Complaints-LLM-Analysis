@@ -13,3 +13,8 @@ kaggle.json
 *.joblib
 __pycache__/
 .ipynb_checkpoints/
+
+# RAG
+rag/embeddings.npy
+rag/chunks.csv
+rag/index_metadata.json
